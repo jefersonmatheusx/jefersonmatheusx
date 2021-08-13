@@ -7,7 +7,7 @@ I'm Jeff, developer and full stack enthusiast from <img src="https://image.flati
 
 [![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefersonmatheusx&show_icons=true&theme=dark)](https://github.com/jefersonmatheusx)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### To connect with me 🚀 
