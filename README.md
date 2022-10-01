@@ -3,7 +3,7 @@
 ## Hi there! 👋 Welcome to my GitHub profile!
 
 ### Who am I? 👨🏻‍💻
-I'm Jeff, full stack developer an tech enthusiast from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Belo Horizonte, Brazil</b>.
+I'm Jeff, full stack developer an tech enthusiast from 🇧🇷 <b>Belo Horizonte, Brazil</b>.
 
 [![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefersonmatheusx&show_icons=true&theme=dark)](https://github.com/jefersonmatheusx)
 
