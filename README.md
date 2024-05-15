@@ -29,6 +29,7 @@ I'm Jeff, full stack developer an tech enthusiast from 🇧🇷 <b>Belo Horizont
   <img align="center" alt="Samuel-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 </div>
 
+
 ![Snake animation](https://github.com/jefersonmatheusx/jefersonmatheusx/blob/output/github-contribution-grid-snake.svg)
 
 <!--
