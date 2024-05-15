@@ -13,7 +13,7 @@ I'm Jeff, full stack developer an tech enthusiast from 🇧🇷 <b>Belo Horizont
 
 ### To connect with me 🚀 
 
-<a href="https://www.linkedin.com/in/jeferson-matheus-530a16b5/(https://www.linkedin.com/in/jeferson-matheus-vieira-530a16b5/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/jeferson-matheus-530a16b5" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 <!--
 **jefersonmatheusx/jefersonmatheusx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
