@@ -31,7 +31,14 @@ I'm Jeff, full stack developer an tech enthusiast from 🇧🇷 <b>Belo Horizont
 </div>
 
 <div> 
-  ![Snake animation](https://github.com/samuel1s/samuel1s/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.youtube.com/channel/UCUFNQjqAnzeidI3jrEnqKaQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/samuel_f.santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/ZSucvR72" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:samuelfds286@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-dos-santos-29863113b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.facebook.com/Samuel.FdSantos95" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/jefersonmatheusx/jefersonmatheusx/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
