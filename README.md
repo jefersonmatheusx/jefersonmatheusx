@@ -26,10 +26,11 @@ I'm Jeff, full stack developer an tech enthusiast from 🇧🇷 <b>Belo Horizont
 </div>
 
 <div>
+  <a href="https://www.youtube.com/channel/UCUFNQjqAnzeidI3jrEnqKaQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 ![Snake animation](https://github.com/jefersonmatheusx/jefersonmatheusx/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<div>  
+<div> 
   ![Snake animation](https://github.com/samuel1s/samuel1s/blob/output/github-contribution-grid-snake.svg)
 </div>
 
