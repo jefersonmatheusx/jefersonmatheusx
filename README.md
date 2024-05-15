@@ -27,7 +27,20 @@ I'm Jeff, full stack developer an tech enthusiast from 🇧🇷 <b>Belo Horizont
 </div>
 
 ![Snake animation](https://github.com/jefersonmatheusx/jefersonmatheusx/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!--
 [![card](https://github-readme-stats.vercel.app/api?username=jefersonmatheusx&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
