@@ -5,7 +5,7 @@
 ### Who am I? 👨🏻‍💻
 I'm Jeff, full stack developer an tech enthusiast from 🇧🇷 <b>Belo Horizonte, Brazil</b>.
 
-[![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefersonmatheusx&show_icons=true&theme=dark)](https://github.com/jefersonmatheusx)
+//[![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefersonmatheusx&show_icons=true&theme=dark)](https://github.com/jefersonmatheusx)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonmatheusx&layout=compact)](https://github.com/jefersonmatheusx/github-readme-stats)
